@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: f345ef6c-b878-49f6-baaa-153b5c9a9fe6
-  WEBAPP-NAME: az400-webapp-leitgeb_092023
+  WEBAPP-NAME: az400-webapp-leitgeb-092023
 
 
 jobs:
